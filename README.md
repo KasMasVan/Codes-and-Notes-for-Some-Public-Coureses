@@ -10,4 +10,4 @@ Code and notes for [Speech and Language Processing (3rd ed. draft)](https://web.
 ### Reinforcement Learning: An Introduction (Second Edition)
 Codes and notes for [Reinforcement Learning: An Introduction (Second Edition)](http://incompleteideas.net/book/the-book.html)
 #### Chapter 2
-1. [A program] that demonstrates the difficulties that sample-average methods have for nonstationary problems.
+1. [A program](https://github.com/KasMasVan/Codes-and-Notes-for-Some-Public-Coureses/blob/main/RLbook2020/chapter2/RL_chapter2.ipynb) that demonstrates the difficulties that sample-average methods have for nonstationary problems.
